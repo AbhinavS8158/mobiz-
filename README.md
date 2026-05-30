@@ -190,7 +190,7 @@ lib/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/AbhinavS8158/mobiz
+git clone https://github.com/AbhinavS8158/mobiz-
 ```
 
 2. Navigate to project directory
